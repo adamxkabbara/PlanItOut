@@ -41,7 +41,7 @@ export class SignUp extends Component {
             <input type="text" id="lastName" onChange={this.handleChange} />
           </div>
           <div className="input-field">
-            <button className="btn green light-green accent-4">Sign Up</button>
+            <button className="btn green light-green accent-4 z-depth-0">Sign Up</button>
           </div>
         </form> 
       </div>
